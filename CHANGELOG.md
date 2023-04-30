@@ -40,10 +40,10 @@ All notable changes to this project will be documented in this file.
 
 ## Repositories
 
-[CalendarParserDocs (this changelog)](https://github.com/BitByeBit/CalendarParserDocs)
-[CalendarParserInfra](https://github.com/BitByeBit/CalendarParserInfra)
-[CalendarParserMobileFE](https://github.com/BitByeBit/CalendarParserMobileFE)
-[CalendarParserCoreBE](https://github.com/BitByeBit/CalendarParserCoreBE)
-[CalendarParserParser](https://github.com/BitByeBit/CalendarParserParser)
-[CalendarParserAuthenticator](https://github.com/BitByeBit/CalendarParserAuthenticator)
+- [CalendarParserDocs (this changelog)](https://github.com/BitByeBit/CalendarParserDocs)
+- [CalendarParserInfra](https://github.com/BitByeBit/CalendarParserInfra)
+- [CalendarParserMobileFE](https://github.com/BitByeBit/CalendarParserMobileFE)
+- [CalendarParserCoreBE](https://github.com/BitByeBit/CalendarParserCoreBE)
+- [CalendarParserParser](https://github.com/BitByeBit/CalendarParserParser)
+- [CalendarParserAuthenticator](https://github.com/BitByeBit/CalendarParserAuthenticator)
 
